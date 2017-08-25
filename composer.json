@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"classmap" : [
+			"./"
+		]
+	},
+	"require": {
+		"lstrojny/functional-php": "^1.6",
+		"illuminate/database": "^5.4"
+	}
+}
